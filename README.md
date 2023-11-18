@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Jordan
+### Hi there 👋 my name is not Jordan
 
 <!--
 **Jordnos/jordnos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
