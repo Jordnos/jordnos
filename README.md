@@ -1,5 +1,3 @@
-### Hi there 👋 my name is not Jordan
-
 <!--
 **Jordnos/jordnos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋 
+
+⭐ I'm Jordan, a third year CS student at UBC. 
+
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordan-so-07175a124/).
