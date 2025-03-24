@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 
 
-⭐ I'm Jordan, a third year CS student at UBC. 
+⭐ I'm Jordan, a fourth year CS student at UBC. 
 
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordan-so-07175a124/).
